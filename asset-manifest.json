@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/KapadiaOm/Netflix-Clone/static/css/main.06211e0f.chunk.css",
+    "main.js": "/KapadiaOm/Netflix-Clone/static/js/main.d8d9004a.chunk.js",
+    "main.js.map": "/KapadiaOm/Netflix-Clone/static/js/main.d8d9004a.chunk.js.map",
+    "runtime-main.js": "/KapadiaOm/Netflix-Clone/static/js/runtime-main.d19949e5.js",
+    "runtime-main.js.map": "/KapadiaOm/Netflix-Clone/static/js/runtime-main.d19949e5.js.map",
+    "static/css/2.679831fc.chunk.css": "/KapadiaOm/Netflix-Clone/static/css/2.679831fc.chunk.css",
+    "static/js/2.bb5ed094.chunk.js": "/KapadiaOm/Netflix-Clone/static/js/2.bb5ed094.chunk.js",
+    "static/js/2.bb5ed094.chunk.js.map": "/KapadiaOm/Netflix-Clone/static/js/2.bb5ed094.chunk.js.map",
+    "index.html": "/KapadiaOm/Netflix-Clone/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/KapadiaOm/Netflix-Clone/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.06211e0f.chunk.css.map": "/KapadiaOm/Netflix-Clone/static/css/main.06211e0f.chunk.css.map",
+    "static/js/2.bb5ed094.chunk.js.LICENSE.txt": "/KapadiaOm/Netflix-Clone/static/js/2.bb5ed094.chunk.js.LICENSE.txt",
+    "static/media/logo.5787551b.svg": "/KapadiaOm/Netflix-Clone/static/media/logo.5787551b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d19949e5.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.bb5ed094.chunk.js",
+    "static/css/main.06211e0f.chunk.css",
+    "static/js/main.d8d9004a.chunk.js"
+  ]
+}
